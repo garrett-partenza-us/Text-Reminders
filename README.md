@@ -1,4 +1,6 @@
-# A reach web app that allows users to automate text based reminders to their cell phone. Built using react, deployed on Amazon EC2, and stored data using Google's Firebase realtime database.
+# Text Reminders
+
+## A React web-app that allows users to automate text-based reminders to their cell phone. Built using React, deployed on Amazon EC2, and stored data using Google's realtime database Firebase .
 
 ## Available Scripts
 
